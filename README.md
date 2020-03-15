@@ -10,3 +10,5 @@ Time-Series Starting from 1st pf February 2020
 DATA SOURCE : 
 Ministry of Health, Epidemiology Unit, Sri Lanka
 http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=446&lang=en
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/1583417"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
