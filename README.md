@@ -10,7 +10,7 @@ Time-Series Starting from 1st of February 2020
 1. Ministry of Health, Epidemiology Unit, Sri Lanka
 http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=446&lang=en
 
-2. News bulletins from Major Sri Lankan News Outlets, Given the news is verified by Watchdog App. ( For Updating Daily Confirmed Cases )
+2. Verified News bulletins From Major Sri Lankan News Outlets( For Updating Daily Confirmed Cases )
 
 # Let's Collaborate 
 Join us on Telegram, For Live Notifications on Data Updates and Discussions
