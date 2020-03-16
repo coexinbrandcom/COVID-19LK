@@ -12,6 +12,6 @@ http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Item
 
 2. News bulletins from Major Sri Lankan News Outlets, Given the news is verified by Watchdog App. ( For Updating Daily Confirmed Cases )
 
-# Lets Collaborate 
+# Let's Collaborate 
 Join us on Telegram, For Live Notifications on Data Updates and Discussions
 https://t.me/joinchat/AAAAAEm7PYB5WA44Cly3eg
