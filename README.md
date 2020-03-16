@@ -7,7 +7,12 @@ Confirmed Cases
 
 Time-Series Starting from 1st of February 2020
 
-DATA SOURCE : 
-Ministry of Health, Epidemiology Unit, Sri Lanka
+DATA SOURCES : 
+1. Ministry of Health, Epidemiology Unit, Sri Lanka
 http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=446&lang=en
 
+2. News bulletins from Major Sri Lankan News Outlets, Given the news is verified by Watchdog App. ( For Updating Daily Confirmed Cases )
+
+Lets Collaborate 
+Join us on Telegram, For Live Notifications on Data Updates and Discussions
+https://t.me/joinchat/AAAAAEm7PYB5WA44Cly3eg
