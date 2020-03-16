@@ -2,9 +2,7 @@
 Novel Coronavirus (COVID-19) Case Statistics , Sourced from Ministry of Health, Epidemiology Unit, Sri Lanka
 
 # Data Included
-Oberservations / Suspected Cases by Treatment Center 
-Confirmed Cases
-Recoveries
+Oberservations / Suspected Cases by Treatment Center | Confirmed Cases | Recoveries
 
 Time-Series Starting from 1st of February 2020
 
