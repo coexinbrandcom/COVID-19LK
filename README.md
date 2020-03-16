@@ -5,7 +5,7 @@ Data Included
 Oberservations / Suspected Cases by Treatment Center 
 Confirmed Cases
 
-Time-Series Starting from 1st pf February 2020
+Time-Series Starting from 1st of February 2020
 
 DATA SOURCE : 
 Ministry of Health, Epidemiology Unit, Sri Lanka
